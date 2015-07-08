@@ -24,7 +24,7 @@
     <string name="config_datause_iface">rmnet0</string>
     
         <!-- Tipsy Performance profiles -->
-    <string name="config_perf_profile_prop">sys.perf.profile</string>
-    <string name="config_perf_profile_default_entry">1</string>
+    <!--string name="config_perf_profile_prop">sys.perf.profile</string-->
+    <!--string name="config_perf_profile_default_entry">1</string-->
   
 </resources>
